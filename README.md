@@ -7,7 +7,7 @@ https://neuralink.com/
 Energy Harvesting:
 powercast
 
-<table style="width:100%" id="myTable">
+<table id="myTable">
   <tr>
     <th onclick="sortTable(0)">Company</th>
     <th onclick="sortTable(1)>Technology</th>
