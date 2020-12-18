@@ -7,25 +7,6 @@ https://neuralink.com/
 Energy Harvesting:
 powercast
 
-<table id="myTable">
-  <tr>
-    <th onclick="sortTable(0)">Company</th>
-    <th onclick="sortTable(1)>Technology</th>
-    <th>Careers</th>
-  </tr>
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
-</table>
-
-
 <script>
 function sortTable(n) {
   var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
@@ -82,3 +63,24 @@ function sortTable(n) {
   }
 }
 </script>
+
+<table id="myTable">
+  <tr>
+    <th onclick="sortTable(0)">Company</th>
+    <th onclick="sortTable(1)>Technology</th>
+    <th>Careers</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+</table>
+
+
+
