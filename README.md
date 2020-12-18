@@ -1,12 +1,3 @@
-# Technology Companies
-
-## Brain Machine Interface:
-https://www.kernel.com/
-https://neuralink.com/
-
-Energy Harvesting:
-powercast
-
 <!DOCTYPE html>
 <html>
 <head>
