@@ -12,4 +12,4 @@ Facebook | Social | https://research.fb.com/ | https://research.fb.com/careers/ 
 Google | Search | https://research.google/ | https://research.google/careers/ | https://arxiv.org/pdf/2011.01480.pdf | 210121
 Kernel | BMI | https://www.kernel.com/news | https://jobs.lever.co/kernel-2 | https://medium.com/future-literacy/changing-our-minds-one-attebyte-at-a-time-764692703636 | 201218
 Neuralink | BMI | https://neuralink.com/science/ | https://neuralink.com/careers/ | https://assets.documentcloud.org/documents/6204648/Neuralink-White-Paper.pdf | 201218
-
+Powercast | Energy Harvesting | https://www.powercastco.com/our-products/ | https://www.powercastco.com/company/careers/ | https://www.powercastco.com/powercast-sees-record-customer-and-revenue-growth-in-2020-as-demand-for-wireless-power-gains-momentum/ | 210205
